@@ -4,7 +4,7 @@
     "username": "Tamil",
     "password": "Tamil123",
     "expiresAt": "2028-12-12",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "af823df680ef22cc",
